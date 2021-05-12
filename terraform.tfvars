@@ -1,0 +1,2 @@
+oci_tenant_id = "ocid1.tenancy.oc1..aaaaaaaah736shorghlpnb5pdejwgsus2zijpu4bf5jew2bet5cxrk7ebgpa"
+oci_identity_compartment_name = "demo_compartment_id"
